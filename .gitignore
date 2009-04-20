@@ -8,4 +8,4 @@ downloads
 eggs
 parts
 src/*.egg-info
-/oembed/
+/django_oembed
